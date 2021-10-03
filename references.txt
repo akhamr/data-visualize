@@ -1,0 +1,7 @@
+This is the references incase someone need it (for study purpose *winks):
+
+1. https://stackoverflow.com/questions/42677160/matplotlib-3d-scatter-plot-date
+2. https://stackoverflow.com/questions/38357632/binning-by-days-of-the-week-pandas-python-matplotlib
+3. https://stackoverflow.com/questions/52309415/matplotlib-plot-24-hours-with-1-hour-intervals/52309969
+
+4. https://github.com/alamhanz/pandas_journey -- i got my dataset from him (my lecturer). big thanks for the good dataset.
